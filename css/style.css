@@ -1,6 +1,6 @@
 .main__left {
   background: #FFFFFF;
-  color: #4A4A4A;
+  color: #7B7B7B;
   font-size: 13px;
   font-family: "Roboto", sans-serif;
   font-weight: 400; }
@@ -14,11 +14,46 @@
   .main__left--link {
     text-decoration: underline; }
   .main__left--input {
+    margin-top: 10px;
     height: 36px; }
+  .main__left--ta {
+    margin-top: 10px; }
   .main__left--btn {
     border: none;
     outline: none;
     height: 40px;
     border-bottom: 1px solid #2AA7CB;
     background: #16808C;
-    color: #fff; }
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400; }
+
+.main__right {
+  background: #F3F3F3;
+  color: #7B7B7B;
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  margin-top: 80px; }
+  .main__right--title {
+    color: #2AA7CB;
+    font-size: 40px;
+    font-weight: 300;
+    margin-left: 30px;
+    margin-top: 28px;
+    margin-bottom: 24px; }
+  .main__right--post {
+    margin-bottom: 28px; }
+    .main__right--post a {
+      text-decoration: none;
+      color: #000; }
+  .main__right--subtitle {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #2AA7CB; }
+  .main__right--img {
+    float: left;
+    margin-right: 12px;
+    margin-left: 30px; }
+  .main__right--content {
+    color: #7B7B7B; }
