@@ -1,0 +1,24 @@
+.main__left {
+  background: #FFFFFF;
+  color: #4A4A4A;
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400; }
+  .main__left--title {
+    color: #2AA7CB;
+    font-family: #roboto;
+    font-weight: 300;
+    font-size: 48px; }
+  .main__left--content {
+    font-size: 15px; }
+  .main__left--link {
+    text-decoration: underline; }
+  .main__left--input {
+    height: 36px; }
+  .main__left--btn {
+    border: none;
+    outline: none;
+    height: 40px;
+    border-bottom: 1px solid #2AA7CB;
+    background: #16808C;
+    color: #fff; }
