@@ -6,7 +6,7 @@
   font-weight: 400; }
   .main__left--title {
     color: #2AA7CB;
-    font-family: #roboto;
+    font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-size: 48px; }
   .main__left--content {
