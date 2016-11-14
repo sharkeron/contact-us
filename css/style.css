@@ -1,24 +1,24 @@
-.main__left {
+.contact-us {
   background: #FFFFFF;
   color: #7B7B7B;
   font-size: 13px;
   font-family: "Roboto", sans-serif;
   font-weight: 400; }
-  .main__left--title {
+  .contact-us__title {
     color: #2AA7CB;
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-size: 48px; }
-  .main__left--content {
+  .contact-us__content {
     font-size: 15px; }
-  .main__left--link {
+  .contact-us__link {
     text-decoration: underline; }
-  .main__left--input {
+  .contact-us__input {
     margin-top: 10px;
     height: 36px; }
-  .main__left--ta {
+  .contact-us__ta {
     margin-top: 10px; }
-  .main__left--btn {
+  .contact-us__btn {
     border: none;
     outline: none;
     height: 40px;
@@ -28,32 +28,33 @@
     font-family: "Roboto", sans-serif;
     font-weight: 400; }
 
-.main__right {
+.latest-news {
   background: #F3F3F3;
   color: #7B7B7B;
   font-size: 13px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   margin-top: 80px; }
-  .main__right--title {
+  .latest-news__title {
     color: #2AA7CB;
     font-size: 40px;
     font-weight: 300;
-    margin-left: 30px;
+    margin-left: 15px;
     margin-top: 28px;
     margin-bottom: 24px; }
-  .main__right--post {
-    margin-bottom: 28px; }
-    .main__right--post a {
-      text-decoration: none;
-      color: #000; }
-  .main__right--subtitle {
+  .latest-news__post {
+    margin-bottom: 35px; }
+  .latest-news__subtitle {
     margin-top: 0;
-    margin-bottom: 0;
-    color: #2AA7CB; }
-  .main__right--img {
+    margin-bottom: 0; }
+    .latest-news__subtitle a {
+      text-decoration: none;
+      color: #2AA7CB;
+      font-size: 16px;
+      font-weight: 400; }
+  .latest-news__img {
     float: left;
     margin-right: 12px;
     margin-left: 30px; }
-  .main__right--content {
+  .latest-news__content {
     color: #7B7B7B; }
